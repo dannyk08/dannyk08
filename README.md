@@ -2,6 +2,8 @@
 
 My name is Daniel Romero. I am a frontend developer living in Los Angeles, CA 🌞. This is a [portfolio website](https://dannys.io) I made... it's fine.
 
+I'm open to oportunities, this is my [resume](https://docs.google.com/document/d/1mZSSEM3O2QdVZbama5J-XO8HG-aLWdgwFY-zWv-cZcI/edit?usp=sharing)!
+
 ## 🧰 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
