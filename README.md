@@ -1,8 +1,8 @@
 # Hi there 👋🏽
 
-My name is Daniel Romero. I am a frontend developer living in Los Angeles, CA 🌞. This is a [portfolio website](https://dannys.io) I made... it's fine.
+My name is Daniel Joffe. I am a full stack engineer living in Los Angeles, CA 🌞. This is a [portfolio website](https://dannys.io) I made 💻.
 
-I'm open to oportunities, this is my [resume](https://docs.google.com/document/export?format=docx&id=1mZSSEM3O2QdVZbama5J-XO8HG-aLWdgwFY-zWv-cZcI)!
+I'm open to opportunities, this is my [resume](https://docs.google.com/document/export?format=docx&id=1mZSSEM3O2QdVZbama5J-XO8HG-aLWdgwFY-zWv-cZcI)!
 
 ## 🧰 Technologies & Tools
 
